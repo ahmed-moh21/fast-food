@@ -1,0 +1,24 @@
+.img-slid {
+  margin-top: 0.6rem;
+  width: 100% !important;
+  height: 35rem;
+}
+
+.carousel-caption {
+  right: 0% !important;
+  left: 30% !important;
+  bottom: 10rem !important;
+  font-size: 40px;
+  width: 37%;
+  background-color: #00000091;
+  border-radius: 10px;
+  border: none;
+}
+
+.carousel-caption h3 {
+  font-size: 4rem;
+}
+
+.slid-contain {
+  margin-top: 5rem;
+}

@@ -1,0 +1,37 @@
+.navbar-nav {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+.me-auto a,
+a {
+  font-size: larger;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.navbar-brand {
+  letter-spacing: 1px !important;
+  font-style: italic !important;
+  font-size: 30px !important;
+}
+
+.navbar-expand .navbar-nav {
+  background: #0bc97138 !important;
+  border: none;
+  border-radius: 30px;
+  width: 15rem;
+  justify-content: space-evenly;
+  align-items: baseline;
+}
+
+.navbar-expand .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  position: absolute !important;
+  right: 1rem !important;
+}
+
+.bg-body-tertiary {
+  border-bottom: 5px solid darkslategray !important;
+}
